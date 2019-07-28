@@ -2,11 +2,7 @@
   "linters": {
     "python-enhancement-proposal": {
       "type": "pep8",
-      "include": "(//.py$)"
-    }, 
-    "javascript-hint": {
-      "type": "jshint",
-      "include": "(//.js$)"
+      "include": "(\\.py$)"
     }
   }
 }
