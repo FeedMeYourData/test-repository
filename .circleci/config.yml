@@ -36,6 +36,6 @@ jobs:
       # run tests!
       - run: npm test
 
-      - notify:
-          webhooks:
-            - url: https://phabricator.feedmeyourdata.com/harbormaster/hook/circleci/
+notify:
+  webhooks:
+    url: https://phabricator.feedmeyourdata.com/harbormaster/hook/circleci/
