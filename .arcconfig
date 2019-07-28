@@ -1,3 +1,4 @@
 {
-  "phabricator.uri": "https://phabricator.feedmeyourdata.com/"
+  "phabricator.uri": "https://phabricator.feedmeyourdata.com/",
+  "unit.engint": "PytestTestEngine"
 }
